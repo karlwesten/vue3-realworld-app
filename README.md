@@ -2,7 +2,7 @@
 
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme) [![code style](https://antfu.me/badge-code-style.svg)](https://github.com/antfu/eslint-config)
 
-⚠️ [realworld](https://github.com/gothinkster/realworld/issues/1611) has stopped maintenance，demo document is no longer available.
+⚠️ [realworld](https://github.com/gothinkster/realworld/issues/1611) has stopped maintenance, demo document is no longer available.
 
 ## Background
 
